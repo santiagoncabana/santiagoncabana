@@ -104,9 +104,9 @@
 ## 😎 Conectate conmigo
 <p align="left">
   
-<a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="patricio" height="30" width="40" /></a>
-<a href="https://github.com/iscpatricio92" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+<a href="" target="blank"> <img align="center" alt="" src="" height="30" width="40" /></a>
 </p>
 <br>
 <br>
