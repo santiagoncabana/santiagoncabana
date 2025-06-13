@@ -1,9 +1,5 @@
 
  <img height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
- 
- Hola,soy santiago 👋
-¡Bienvenido a mi perfil! Tengo 21 años y soy un apasionado del desarrollo web. Mi enfoque principal es la creación de experiencias web atractivas y funcionales utilizando HTML, CSS, JavaScript y React.
-Siempre estoy en búsqueda de aprender nuevas tecnologías y trabajar en proyectos desafiantes que impulsen mi crecimiento personal y profesional.
 
 
 
